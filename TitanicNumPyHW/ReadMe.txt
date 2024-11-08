@@ -1,0 +1,1 @@
+main.py should be able to run as long as train.csv is in the same folder location in order to read the csv file
